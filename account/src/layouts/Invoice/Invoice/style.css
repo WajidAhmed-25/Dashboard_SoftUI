@@ -1,0 +1,50 @@
+.Invoicetd{
+    font-size: 16px;
+}
+.qty{
+    font-size: 16px;
+    font-weight: 600;
+
+
+}
+.Premium{
+    font-size: 16px;
+
+}
+.card-main{
+    width: 100%;
+    box-shadow: none !important;
+    /* background-color: white;
+    border-radius: 12px;
+    padding: 0px 16px; */
+    margin: 0 auto;
+}
+.Invoicetdr{
+    font-size: 16px;
+    text-align: right;
+}
+@media screen and (max-width:1024px) {
+    .Invoicetd {
+        font-size: 10px;
+    }
+    .Premium {
+        font-size: 10px;
+    }
+    .qty {
+        font-size: 10px;
+    }
+    .card-main{
+        width: 100% !important;
+        padding-left: 6px !important;
+        padding-right: 6px !important;
+    }
+    .Invoicetdr{
+        font-size: 10px;
+        text-align: right !important;
+    }
+    .thank{
+        margin-top: 20px;
+    }
+    
+    
+}

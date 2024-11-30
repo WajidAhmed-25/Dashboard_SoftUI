@@ -1,0 +1,28 @@
+th.MuiBox-root.css-ucaobm {
+    font-size: .65rem !important;
+    color: #2188fe;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text_decor {
+    font-size: .65rem !important;
+    text-transform: uppercase !important;
+    color: #2188fe !important;
+}
+
+input[type="date"] {
+    font-size: .70rem !important;
+}
+
+@media only screen and (max-width: 1024px) {
+    .css-mhc70k-MuiGrid-root {
+
+        flex-direction: column !important;
+    
+    }
+    .MuiGrid-root.MuiGrid-item {
+    
+        max-width: 100% !important;
+    }
+  }

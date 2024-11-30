@@ -1,0 +1,156 @@
+.css-nn0g1v {
+    margin-bottom: 0px !important;
+   padding: 0px !important;
+}
+
+.css-mhc70k-MuiGrid-root>.MuiGrid-item {
+    padding-top: 0px !important;
+}
+
+.css-n2lc3p {
+    margin-bottom: 4px !important;
+}
+
+
+.css-mhc70k-MuiGrid-root {
+    padding-top: 24px !important;
+}
+
+.css-1acyv19 {
+    width:52% !important;
+}
+
+.table_head {
+    color: #21b4fd !important;
+}
+
+.css-10ukfau-MuiInputBase-input {
+    height: 100% !important;
+}
+
+td {
+   font-size: 14px;
+   text-align: center;
+}
+
+.App {
+
+    margin: 20px;
+  }
+  
+  .thumbnail:hover {
+    border: 2px solid #007BFF;
+  }
+
+  button, input, optgroup, select, textarea {
+    font-size: 11px !important;
+}
+
+
+.tag-input-container {
+    border: 1px solid #ccc;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.tag-input {
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.tag {
+    background-color: #e2e2e2;
+    padding: 5px 10px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+}
+.tag button {
+    background: none;
+    border: none;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#fileUpload {
+    margin-bottom: 20px;
+  }
+  
+  #filePreview, #dbFilePreview {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .file-container {
+    position: relative;
+    width: 70px;
+    height: auto;
+  }
+  
+  .thumbnail {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    border: 2px solid transparent;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .thumbnail:hover {
+    border: 2px solid #007BFF;
+  }
+  
+  .delete-btn {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: rgba(255, 0, 0, 0.8);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 2px 5px;
+    font-size: 7px !important;
+  }
+  
+  #enlargedPreview {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  #enlargedPreview img {
+    max-width: 100%;
+    max-height: 400px;
+  }
+  
+  #downloadBtn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #fileInfo {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    white-space: pre-wrap; /* Allows for multiline text */
+  }

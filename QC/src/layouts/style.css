@@ -1,0 +1,105 @@
+.css-nn0g1v {
+    margin-bottom: 0px !important;
+   padding: 0px !important;
+}
+
+/* .css-mhc70k-MuiGrid-root>.MuiGrid-item {
+    padding-top: 0px !important;
+} */
+
+.css-n2lc3p {
+    margin-bottom: 4px !important;
+}
+
+
+.css-mhc70k-MuiGrid-root {
+    padding-top: 24px !important;
+}
+
+.css-1acyv19 {
+    width:52% !important;
+}
+
+.table_head {
+    color: #21b4fd !important;
+}
+
+.css-10ukfau-MuiInputBase-input {
+    height: 100% !important;
+}
+
+td {
+   font-size: 14px;
+   text-align: center;
+}
+
+.App {
+
+    margin: 20px;
+  }
+  
+  .thumbnail:hover {
+    border: 2px solid #007BFF;
+  }
+
+  button, input, optgroup, select, textarea {
+    font-size: 11px !important;
+}
+
+
+.tag-input-container {
+    border: 1px solid #ccc;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.tag-input {
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.tag {
+    background-color: #e2e2e2;
+    padding: 5px 10px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+}
+.tag button {
+    background: none;
+    border: none;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+
+.img_styling {
+    width: 100%;
+}
+
+.grid_view {
+    border: 1px solid #aaaa;
+    text-align: center;
+    vertical-align: middle;
+    padding-left:0 !important;
+    padding-top: 19px !important;
+}
+
+a.img_styling {
+    display: block;
+    margin-top: 25px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .img_styling {
+        width: 100%;
+        margin-bottom: 8%;
+    }
+}

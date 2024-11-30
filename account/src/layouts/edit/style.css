@@ -1,0 +1,18 @@
+th.MuiBox-root.css-ucaobm {
+    font-size: .65rem !important;
+    color: #2188fe;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 1024px) {
+    .css-mhc70k-MuiGrid-root {
+
+        flex-direction: column !important;
+    
+    }
+    .MuiGrid-root.MuiGrid-item {
+    
+        max-width: 100% !important;
+    }
+  }

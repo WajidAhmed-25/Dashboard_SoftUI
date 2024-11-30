@@ -1,0 +1,49 @@
+th.MuiBox-root.css-ucaobm {
+    font-size: .65rem !important;
+    color: #2188fe;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text_decor {
+    font-size: .65rem !important;
+    text-transform: uppercase !important;
+    color: #2188fe !important;
+}
+
+input[type="date"] {
+    font-size: .70rem !important;
+}
+
+/* filter css */
+
+/* .MuiListItemIcon-root:after {
+    content: '200';
+    position: absolute;
+    right: -11px;
+    background: red;
+    color: white;
+    font-size: 9px;
+    border-radius: 16px;
+    padding: 0px 6px;
+    top: -6px;
+    z-index: 99999999;
+}
+.MuiListItemIcon-root{
+    position: relative;
+
+} */
+
+@media only screen and (max-width: 1024px) {
+    .css-mhc70k-MuiGrid-root {
+
+        flex-direction: column !important;
+    
+    }
+    .MuiGrid-root.MuiGrid-item {
+    
+        max-width: 100% !important;
+    }
+  }
+
+/* filter css mobile  */
